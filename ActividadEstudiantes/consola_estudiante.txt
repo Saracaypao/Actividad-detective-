@@ -1,0 +1,37 @@
+Pruebas en consola:
+ejercicio1:
+3 ?- no_estudiante(ellacuria).
+true.
+4 ?- no_estudiante(kelvin).   
+false.
+
+
+ejercicio2:
+5 ?- primer_estudiante(X).      
+X = kelvin.
+
+ejercicio3:
+6 ?- listar_estudiantes(X).   
+kelvin
+raul
+florence
+mauricio
+melissa
+
+ejercicio4:
+8 ?- verificar_estudiante.   
+Ingrese el nombre del estudiante: kelvin.
+kelvin es un estudiante.
+true.
+
+9 ?- verificar_estudiante.
+Ingrese el nombre del estudiante: paola.
+paola no es un estudiante.
+true.
+
+ejercicio5:
+9 ?- estudiante(Nombre, Entrada, Salida).
+Ingrese el nombre del estudiante: melissa.
+
+Nombre = Entrada, Entrada = melissa,
+Salida = 'es un estudiante.'.
