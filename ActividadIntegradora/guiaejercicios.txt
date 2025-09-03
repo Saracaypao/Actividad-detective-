@@ -1,0 +1,27 @@
+Guía de Ejercicios – Prolog (Nivel Intermedio)
+
+1. Operadores Aritméticos
+Ejercicio 1: Cálculo de área y perímetro - Crear predicado rectangulo/3.
+Ejercicio 2: Número par o impar - Crear predicado par_impar/1.
+Ejercicio 3: Tabla de multiplicar - Crear predicado tabla_multiplicar/1.
+
+2. Operadores Relacionales
+Ejercicio 4: Mayor de dos números - Crear predicado mayor/3.
+Ejercicio 5: Rango de edad - Crear predicado categoria_edad/1.
+Ejercicio 6: Nota de aprobación - Crear predicado aprobo/1.
+
+3. Operadores de Ligadura y Unificación
+Ejercicio 7: Unificación de estructuras - Crear predicado es_hermano/2.
+Ejercicio 8: Comparación estricta - Probar diferencias entre =, == y \==.
+Ejercicio 9: Juego de colores - Crear predicado color_equipo/1.
+
+4. Funciones Aritméticas Predefinidas
+Ejercicio 10: Distancia entre dos puntos - Crear predicado distancia/5.
+Ejercicio 11: Conversión de grados a radianes - Crear grados_a_radianes/2.
+Ejercicio 12: Promedios y extremos - Crear analisis/3.
+Ejercicio 13: Estadísticas - Usar abs, round, floor, ceiling.
+
+5. Desafíos Integradores
+Ejercicio 14: Calculadora sencilla - Crear predicado calculadora/4.
+Ejercicio 15: Triángulo rectángulo - Crear hipotenusa/3.
+Ejercicio 16: Sistema de calificaciones - Calcular nota máxima, mínima y promedio de una lista.
