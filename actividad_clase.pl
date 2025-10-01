@@ -1,5 +1,6 @@
 % Parte 1  Hechos basicos
 
+%Hechos basicos
 cocina(ana).
 estudia(maria).
 trabaja(juan).
